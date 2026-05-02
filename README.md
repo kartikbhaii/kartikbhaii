@@ -11,7 +11,7 @@
 
 ## 📌 About Me
 
-- <p align="left">I'm Kartikey Singh from Ballia, UP.<br><br>- 🔭 My intrest is in working as Full Stack Developer.<br><br>- 📚 I'm currently expanding my knowledge in Development and DSA.<br><br>- ⚡ In my free time I love to read non-fiction books.<br><br>- 💬 Share a message: kkartikeysinghh@gmail.com</p>
+- <p align="left">I'm Kartikey Singh from Ballia, UP.<br><br>- 🔭 My intrest is in working as Full Stack Developer.<br><br>- 📚 I'm currently expanding my knowledge in Development and DSA.<br><br>- ⚡ In my free time I love to read non-fiction books.<br><br>- 💬 Send a message here: kkartikeysinghh@gmail.com</p>
 
 ---
 
