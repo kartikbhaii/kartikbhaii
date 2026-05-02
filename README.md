@@ -6,7 +6,6 @@
   </a>
 </p> 
 --- 
-## 
 
 📌 About Me - <p align="left">I'm Kartikey Singh from Ballia, UP. <br>
   <br>- 🔭 My intrest is in working as Full Stack Developer. <br>
