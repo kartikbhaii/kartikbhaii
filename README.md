@@ -2,34 +2,32 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=kartikbhaii">
-    <img src="https://komarev.com/ghpvc/?username=kartikbhaii&label=Profile%20views&color=00FFFF&style=flat-square" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kartikbhaii&label=Profile%20views&color=00FFFF&style=flat-square" />
 </p>
 
 ---
 
 ## 📌 About Me
 
-- <p align="left">I'm Kartikey Singh from Ballia, UP.<br><br>
-- 🔭 My interest is in working as Full Stack Developer.<br><br>
-- 📚 I'm currently expanding my knowledge in Development and DSA.<br><br>
-- ⚡ In my free time I love to read non-fiction books.<br><br>
-- 💬 Send a message here: kkartikeysinghh@gmail.com</p>
+<p align="center">
+I'm Kartikey Singh from Ballia, UP. <br><br>
+🔭 Interested in working as a Full Stack Developer <br><br>
+📚 Currently expanding my knowledge in Development and DSA <br><br>
+⚡ I enjoy reading non-fiction books <br><br>
+💬 Reach me at: <b>kkartikeysinghh@gmail.com</b>
+</p>
 
 ---
 
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <a href="https://github.com/kartikbhaii">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartikbhaii&theme=radical&show_icons=true&border_radius=10" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartikbhaii&show_icons=true&theme=radical&border_radius=10" />
   <img src="https://streak-stats.demolab.com/?user=kartikbhaii&theme=radical&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=kartikbhaii&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kartikbhaii&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -90,11 +88,11 @@
   <a href="https://www.linkedin.com/in/thekartikey">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/kartikeydnh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:kkartikeysinghh@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" />
   </a>
