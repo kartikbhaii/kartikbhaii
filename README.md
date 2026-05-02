@@ -4,7 +4,11 @@
   <a href="https://komarev.com/ghpvc/?username=kartikbhaii">
     <img src="https://komarev.com/ghpvc/?username=kartikbhaii&label=Profile%20views&color=00FFFF&style=flat-square" alt="kartikbhaii's profile views" />
   </a>
-</p> --- ## 📌 About Me - <p align="left">I'm Kartikey Singh from Ballia, UP. <br>
+</p> 
+--- 
+## 
+
+📌 About Me - <p align="left">I'm Kartikey Singh from Ballia, UP. <br>
   <br>- 🔭 My intrest is in working as Full Stack Developer. <br>
   <br>- 📚 I'm currently expanding my knowledge in Development and DSA. <br>
   <br>- ⚡ In my free time I love to read non-fiction books. <br>
@@ -17,7 +21,9 @@
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=kartikbhaii&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kartikey Singh's GitHub Trophies" />
-</p> --- ## 🛠️ Languages & Tools <h3 align="center">Programming Languages</h3>
+</p> 
+---
+## 🛠️ Languages & Tools <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 </p>
