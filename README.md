@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=kartikbhaii&label=Profile%20views&color=00FFFF&style=flat-square" alt="kartikbhaii's profile views" />
   </a>
 </p> 
---- 
+
 
 📌 About Me - <p align="left">I'm Kartikey Singh from Ballia, UP. <br>
   <br>- 🔭 My intrest is in working as Full Stack Developer. <br>
@@ -21,8 +21,8 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=kartikbhaii&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kartikey Singh's GitHub Trophies" />
 </p> 
----
-## 🛠️ Languages & Tools <h3 align="center">Programming Languages</h3>
+
+ 🛠️ Languages & Tools <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 </p>
@@ -45,7 +45,9 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-</p> --- ## 🔗 Connect with Me <p align="center">
+</p> 
+
+🔗 Connect with Me <p align="center">
   <a href="thekartikey">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="kartikeydnh">
@@ -54,7 +56,9 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <a href="mywebsitelink"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" /></a> -->
-</p> --- ## 🟢 Contribution Graph <div align="center">
+</p> 
+
+🟢 Contribution Graph <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikbhaii/kartikbhaii/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikbhaii/kartikbhaii/output/pacman-contribution-graph.svg">
