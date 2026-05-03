@@ -7,6 +7,14 @@
   </a>
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikbhaii/kartikbhaii/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikbhaii/kartikbhaii/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kartikbhaii/kartikbhaii/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
 ## 📌 About Me
 - <p align="left">I'm Kartikey Singh from Ballia, UP.<br><br>- 🔭 My intrest is in working as Full Stack Developer.<br><br>- 📚 I'm currently expanding my knowledge in Development and DSA.<br><br>- ⚡ In my free time I love to read non-fiction books.<br><br>- 💬 Send a message here: kkartikeysinghh@gmail.com</p>
 
@@ -71,12 +79,5 @@
   </a>
 </p>
 
-## 🟢 Contribution Graph
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikbhaii/kartikbhaii/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikbhaii/kartikbhaii/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kartikbhaii/kartikbhaii/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+
