@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kartikey Singh</h1>
-<h3 align="center">Full Stack Developer</h3>
+<!-- <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=kartikbhaii">
     <img src="https://komarev.com/ghpvc/?username=kartikbhaii&label=Profile%20views&color=00FFFF&style=flat-square" alt="kartikbhaii's profile views" />
   </a>
-</p>
+</p> -->
 
 <div align="center">
   <picture>
