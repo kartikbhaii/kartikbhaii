@@ -15,10 +15,26 @@
   </picture>
 </div>
 
-## 📌 About Me
-- <p align="left">I'm Kartikey Singh.<br><br>- 🔭 A Full Stack Dev, currently working as Front-End Dev at TechBench.ai<br><br>- 📚 Learning and expanding my knowledge in Development and DSA.<br><br>- ⚡ Love to read non-fiction books.<br><br>- 💬 Send a message here: kkartikeysinghh@gmail.com</p>
+<h6 align="center"> Watch these Pac-Man eat my contributions! • • • ⍩⃝ </h6>
 
-## 📊 GitHub Stats & Trophies
+<h3 align="center">
+  Welcome to my GitHub Universe! I'm a passionate Full Stack Developer from India with a love for building innovative solutions. Whether it's crafting elegant frontends or architecting robust backends, I'm always pushing the boundaries of what's possible with code.
+</h3>
+
+<p>
+  <br>- 🔭 Currently working on HireHub - Job Portal Website<br>
+  <br>- 💻 Passionate about Full Stack Development & DSA<br>
+  <br>- 🚀 Building projects that solve real-world problems<br>
+  <br>- 🌱 Always learning and exploring new technologies<br>
+  <br>- 🎯 Open to collaborating on innovative projects<br>
+  <br>- 📫 Reach me at kkartikeysinghh@gmail.com<br>
+  <br>- ⚡ Fun fact: I believe every bug is just an undiscovered feature!<br>
+
+</p>
+
+<br>
+
+<h2>📊 GitHub Stats & Trophies</h2>
 <p align="center">
   <a href="https://github.com/kartikbhaii">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kartikbhaii&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="kartikbhaii's GitHub Stats" />
@@ -29,55 +45,47 @@
   <img src="https://trophy.ryglcloud.net/?username=kartikbhaii&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kartikey Singh's GitHub Trophies" />
 </p>
 
-## 🛠️ Languages & Tools
+<br>
 
-<h3 align="center">Programming Languages</h3>
+<h2> 🛠️ Languages & Tools </h2>
+
+<h3> 🖥️ Programming & Web Development</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,next,vitest,jquery,html,css,tailwind,bootstrap,npm" />
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3>🗄️ Databases & Development Tools</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,gcp,git,github,postman" />
 </p>
 
-<h3 align="center">Backend</h3>
+<h3>💼 Design & Other Tools</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://images.icon-icons.com/2667/PNG/512/folder_express_icon_161294.png" width="40" />
+<img src="https://skillicons.dev/icons?i=vercel,vite,vscode,figma" />
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" />
-</p>
 
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/thekartikey/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kkartikeysinghh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/kartikeyDNH">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kkartikeysinghh@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
 </p>
 
+<br>
+<hr>
 
+<h3 align="center"> <ins>💭 Dev Quote of the Day</ins></h3>
 
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?layout=churchill&theme=dark" alt="Dev Quote of the Day" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/089b28637c94b20600bd40f17d093793532d58bc7653995945ea4d1942ef9972/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3135302673656374696f6e3d666f6f74657226616e696d6174696f6e3d7477696e6b6c696e67"
+    width="100%"
+    alt="Footer"
+  />
+</p>
