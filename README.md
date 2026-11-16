@@ -32,8 +32,6 @@
 
 </p>
 
-<br>
-
 <h2>📊 GitHub Stats & Trophies</h2>
 <p align="center">
   <a href="https://github.com/kartikbhaii">
@@ -73,8 +71,6 @@
   <a href="https://x.com/kartikeyDNH">
     <img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
 </p>
-
-<br>
 <hr>
 
 <h3 align="center"> <ins>💭 Dev Quote of the Day</ins></h3>
