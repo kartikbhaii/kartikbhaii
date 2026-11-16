@@ -73,7 +73,7 @@
 <h3 align="center"> <ins>💭 Dev Quote of the Day</ins></h3>
 
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?layout=churchill&theme=dark" alt="Dev Quote of the Day" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Dev Quote of the Day" />
 </p>
 <hr>
 <p align="center">
