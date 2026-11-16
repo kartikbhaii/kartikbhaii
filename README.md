@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kartikey Singh</h1>
-<!-- <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=kartikbhaii">
@@ -42,8 +41,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=kartikbhaii&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kartikey Singh's GitHub Trophies" />
 </p>
-
-<br>
 
 <h2> 🛠️ Languages & Tools </h2>
 
